@@ -21,5 +21,6 @@ The project helped me to learn variadic functions.
    ```
 4. Use as you would with printf()
    ```sh
-   ft_printf("%s", "hello");
+   
+   ft_printf("%s\n", "hello world");
    ```
